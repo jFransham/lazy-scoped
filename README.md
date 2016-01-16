@@ -7,16 +7,14 @@ on any current version of Rust.
 Serving suggestion:
 
 ```rust
-let lazy = Rc::new(
-	Lazy::new(|| {
-		println!("Doing something complicated!");
-		42
-	})
-);
+let lazy = Lazy::new(|| {
+	println!("Doing something complicated!");
+	42
+});
 
-println!("{}", lazy);
-println!("{}", lazy);
-println!("{}", lazy);
+println!("{}", *lazy);
+println!("{}", *lazy);
+println!("{}", *lazy);
 
 /* Prints:
  *   Doing something complicated!
