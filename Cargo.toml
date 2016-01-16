@@ -1,0 +1,4 @@
+[package]
+name = "lazy-scoped"
+version = "0.1.0"
+authors = ["Jack Fransham <jack.fransham@cuvva.co>"]
