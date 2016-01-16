@@ -1,7 +1,7 @@
 [package]
 name = "lazy-scoped"
 description = "Super-simple scoped single-threaded lazily-initialised objects"
-homepage = "git@github.com:jFransham/lazy-scoped.git"
+homepage = "https://github.com/jFransham/lazy-scoped"
 repository = "git@github.com:jFransham/lazy-scoped.git"
 license = "Unlicense"
 license-file = "LICENSE.md"
