@@ -1,5 +1,5 @@
 [package]
-name = "lazy-scoped"
+name = "lazy_scoped"
 description = "Super-simple scoped single-threaded lazily-initialised objects"
 homepage = "https://github.com/jFransham/lazy-scoped"
 repository = "https://github.com/jFransham/lazy-scoped"
