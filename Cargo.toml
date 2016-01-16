@@ -1,4 +1,5 @@
 [package]
 name = "lazy-scoped"
+description = "Super-simple scoped single-threaded lazily-initialised objects"
 version = "0.1.0"
 authors = ["Jack Fransham <jack.fransham@cuvva.co>"]
